@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Avengers",
+    "year": 2012,
+    "genre": "Action",
+    "rating": 8
+  },
+  {
+    "id": "2",
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8
+  },
+  {
+    "title": "Deception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "id": "d7f5aa24-d64b-4016-a8b6-007c28a0f4e5"
+  },
+  {
+    "title": "Depression",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "id": "5b89fe94-cd0a-481f-847a-3083a89d9302"
+  },
+  {
+    "id": "35a17216-2691-4ae8-ac6a-7f3664e7dc7f",
+    "title": "Witcher 3",
+    "year": 2019,
+    "genre": "Sci-Fi",
+    "rating": 9.8
+  }
+]
